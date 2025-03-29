@@ -1,0 +1,26 @@
+/* App.css */
+@media (max-width: 768px) {
+  .HeaderContainer {
+    padding: 0.5rem 1rem;
+  }
+  
+  .FilterContainer {
+    padding: 0.5rem;
+    justify-content: center;
+  }
+  
+  .FilterButton, .UploadButton {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.8rem;
+  }
+  
+  .TableCell {
+    padding: 0.5rem;
+    font-size: 0.8rem;
+  }
+  
+  .ModalContent {
+    width: 95%;
+    padding: 1rem;
+  }
+}
